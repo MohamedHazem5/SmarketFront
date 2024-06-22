@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/SmarketFront/static/css/main.440e4d2c.css",
+    "main.js": "/SmarketFront/static/js/main.30cec3ef.js",
+    "static/media/project.mp4": "/SmarketFront/static/media/project.ad8813ed66ce88a93540.mp4",
+    "static/media/maii.PNG": "/SmarketFront/static/media/maii.85e9babfe89c9f27371c.PNG",
+    "static/media/hero2.jpg": "/SmarketFront/static/media/hero2.31ce8f39d90e95728cef.jpg",
+    "static/media/hero.jpg": "/SmarketFront/static/media/hero.f1240436adbd7aab66b8.jpg",
+    "static/media/esmael.jpg": "/SmarketFront/static/media/esmael.a669d3f1f4e01d6b632b.jpg",
+    "static/media/hazem.jpg": "/SmarketFront/static/media/hazem.61df2b362e24cd7f2358.jpg",
+    "static/media/contactbackground.png": "/SmarketFront/static/media/contactbackground.09eca9a68a64f670f796.png",
+    "static/media/userbackground.png": "/SmarketFront/static/media/userbackground.063629c5ef594d6c2132.png",
+    "static/media/nayera.jpg": "/SmarketFront/static/media/nayera.14dcb51e3d89be733105.jpg",
+    "static/media/ashrakat.jpg": "/SmarketFront/static/media/ashrakat.eaeeb51889ddd3a8c752.jpg",
+    "static/media/magdy.jpg": "/SmarketFront/static/media/magdy.e7dd64e4010ce3cf9fc1.jpg",
+    "static/media/abo magd.jpg": "/SmarketFront/static/media/abo magd.70aff995d1b9ca02be50.jpg",
+    "static/media/asmaa.jpg": "/SmarketFront/static/media/asmaa.8b5f48612857ac1ada1f.jpg",
+    "static/media/me.jpg": "/SmarketFront/static/media/me.24b591b538f270145b41.jpg",
+    "static/media/toka.jpg": "/SmarketFront/static/media/toka.2fd1a57a3fda5fb521bd.jpg",
+    "static/media/whitelogo.png": "/SmarketFront/static/media/whitelogo.4c7130f8fd581c838ca0.png",
+    "static/media/stripe.svg": "/SmarketFront/static/media/stripe.91fe40770a208b75ca7d5ee62db1c3ca.svg",
+    "static/media/visa.svg": "/SmarketFront/static/media/visa.31a6666c8b5f5d2d4f683aba4d7423eb.svg",
+    "index.html": "/SmarketFront/index.html",
+    "static/media/mastercard.svg": "/SmarketFront/static/media/mastercard.c66dbbec26938c040843d4706a1965e1.svg",
+    "main.440e4d2c.css.map": "/SmarketFront/static/css/main.440e4d2c.css.map",
+    "main.30cec3ef.js.map": "/SmarketFront/static/js/main.30cec3ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.440e4d2c.css",
+    "static/js/main.30cec3ef.js"
+  ]
+}
