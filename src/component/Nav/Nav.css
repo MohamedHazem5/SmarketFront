@@ -1,0 +1,119 @@
+.logo{
+    height: 80px;
+    width:130px;
+    position: relative;
+    display: flex;
+}
+.logo img{
+    height:100%;
+    position: absolute;
+    width:100%
+}
+.nav{
+    background-color: var(--primary-color);
+    color: aliceblue;
+}
+.navbar-collapse{
+    flex-grow: 0;
+    color:#fff
+}
+.navbar-nav{
+    color:#fff
+}
+.form-control{
+    border-radius:4px;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    -ms-border-radius:4px;
+    -o-border-radius:4px;
+    width: 200px;
+}
+@media (max-width:767px){
+    .logo{
+        width:100px;
+        height:50px
+    }
+    .form-control{
+        width:120px
+    }
+    .navbar-toggle{
+        width:40px
+    }
+}
+.dropdown{
+    border-radius: 0px 4px 4px 0px;
+    -webkit-border-radius: 0px 4px 4px 0px;
+    -moz-border-radius: 0px 4px 4px 0px;
+    -ms-border-radius: 0px 4px 4px 0px;
+    -o-border-radius: 0px 4px 4px 0px;
+    
+}
+.dropdown-toggle{
+    color:black !important;
+}
+.search{
+    border-radius:0 4px 4px 0 ;
+    -webkit-border-radius:0 4px 4px 0 ;
+    -moz-border-radius:0 4px 4px 0 ;
+    -ms-border-radius:0 4px 4px 0 ;
+    -o-border-radius:0 4px 4px 0 ;
+    background-color: var(--forth-color);
+    outline: none;
+    border: none;
+}
+
+.btn-primary{
+    border: 0;
+}
+.btn-primary:hover{
+    background-color: var(--secondary-color);
+    outline: 0;
+    border: 0;
+}
+.profile-icon  {
+    width:120px;
+    background-color: white;
+    width: 35px;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.profile-icon img{
+    width: 100%;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.flag{
+    background: linear-gradient(90deg, #253036 0%, #414E56 100%);
+
+    padding:10px
+}
+.flag ul{
+    display: flex;
+    margin-bottom: 0;
+}
+li{
+    list-style: none;
+    margin-right: 30px;
+}
+ nav .nav-link{
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+    font-weight: normal;
+}
+Navbar nav .active-link{
+    font-weight: "bold";
+    text-decoration: "underline";
+    color: orange;
+    margin-right: 10px;
+}

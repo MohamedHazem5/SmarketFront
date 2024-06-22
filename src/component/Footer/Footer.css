@@ -1,0 +1,13 @@
+.footer{
+    background: var(--primary-color)
+}
+.text{
+    width:400px
+}
+@media (max-width:767px){
+    .payment{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}

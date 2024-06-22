@@ -1,0 +1,43 @@
+.contact-section{
+    background: url(./contactbackground.png);
+    background-size: cover ;
+    background-repeat: no-repeat;
+    padding-top:100px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+.contact-section h1{
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 44px;
+}
+.contact-section p{
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.contact-section form{
+    background: #F2F4F6;
+    width: fit-content;
+    text-align: center;
+    margin: auto;
+    padding: 0 20px;
+    border-bottom: 1px solid #ddd;
+}
+.contact-section input{
+    border: none;
+    outline: none;
+    padding: 10px 25px;
+    background: none;
+    margin-left: 10px;
+    margin-right: 60px;
+    width:auto;
+    height: auto;
+}
+.contact-section button{
+    font-family: sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    background-color: #F2F4F6;
+    border: none;
+}

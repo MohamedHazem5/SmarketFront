@@ -1,0 +1,64 @@
+
+.profile .box{
+    padding:var(--40, 40px) var(--16, 16px);
+    border:1px solid #ddd;
+    margin-left: 10px;
+    background: #e8e8e8;
+    min-width:250px;
+    height:450px;
+    .box-img
+    {
+        width:100px;
+        margin-inline: auto;
+        position: relative;
+        border-radius: 100%;
+        -webkit-border-radius: 100%;
+        -moz-border-radius: 100%;
+        -ms-border-radius: 100%;
+        -o-border-radius: 100%;
+        img{
+            width:100%;
+            border-radius: 100%;
+            -webkit-border-radius: 100%;
+            -moz-border-radius: 100%;
+            -ms-border-radius: 100%;
+            -o-border-radius: 100%;
+        }
+        .camera{
+            position: absolute;
+            bottom: 0;
+            right:10%;
+            background-color: #000;
+            padding: 5px;
+            border-radius: 50%;
+            -webkit-border-radius: 50%;
+            -moz-border-radius: 50%;
+            -ms-border-radius: 50%;
+            -o-border-radius: 50%;
+        }
+    }
+}
+.box .box-list nav a.nav-link{
+    color:rgba(0,0,0,.5)
+}
+.profile .form input{
+    display: block;
+    margin-block:10px;
+    padding:10px 15px;
+    width: 100%;
+    border:1px solid #ddd;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+
+.favorite .table td, .table th {
+    text-align: start;
+    vertical-align: middle;
+}
+.favorite .table .action{
+    font-size:24px;
+    cursor: pointer;
+}

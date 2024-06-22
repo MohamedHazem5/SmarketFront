@@ -1,0 +1,12 @@
+/* src/components/ScrollToTopButton.css */
+.scroll-to-top {
+    position: fixed;
+    bottom: 40px;
+    left: 20px;
+    z-index: 1000;
+  }
+  .scroll-to-top button {
+    border-radius: 50%;
+    padding: 10px 20px;
+  }
+  
